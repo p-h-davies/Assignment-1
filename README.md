@@ -15,7 +15,7 @@ To use this website, you can navigate to different parts of the main content are
 
 ## Credits
 
-All starter code provided by Xandromus (Xander Rapstine).
+All starter code was provided by Xandromus (Xander Rapstine) - this starter code was used within the README.md, index.html, .gitignore files & within the all files within the assets folder (CSS, style.css & images).
 
 ## License
 
